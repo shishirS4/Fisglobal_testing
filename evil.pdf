@@ -9,8 +9,13 @@ endobj
 << /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
 endobj
 4 0 obj
-<< /Filter /FlateDecode /Length 20 >> stream
-x�s�2W�02P�0�Ҵ4�4�B��C
+<< /Length 44 >>
+stream
+BT
+/F1 12 Tf
+10 50 Td
+(A) Tj
+ET
 endstream
 endobj
 5 0 obj
@@ -22,7 +27,8 @@ endobj
 << /Flags 4 /FontBBox [ -53 -251 1139 750 ] /FontFile 7 0 R /FontName /Verdana /Type /FontDescriptor >>
 endobj
 7 0 obj
-<< /Length 44 >> stream
+<< /Length 44 >>
+stream
 dummy font data never parsed
 endstream
 endobj
